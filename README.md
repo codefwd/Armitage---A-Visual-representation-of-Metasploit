@@ -28,11 +28,29 @@ On the top left panel there is a tree version of the metasploitable database. If
 <img width="421" height="344" alt="arm 10" src="https://github.com/user-attachments/assets/364775c1-f1f3-4ccc-b002-e0d99b7ace22" /><br/><br/>
 <img width="1115" height="529" alt="arm 11" src="https://github.com/user-attachments/assets/2203ffdd-4e54-4245-b188-762fd9efd337" /><br/><br/>
 
-Armitage can help us decide what exploit to use. First you have to reduce the attack filter to poor, second, have the host you want compromised selected, then armitage can check the database and select all the possible attacks for this kind of host.<br/><br/>
+Armitage can help us decide what exploit to use. First you have to reduce the attack filter to poor, second, have the host you want compromised selected, then armitage can check the database and select all the possible attacks for this kind of host. After the attack filter is set, go to attack and find attack - armitage will load all the attacks<br/><br/>
 
 <img width="423" height="388" alt="arm 12" src="https://github.com/user-attachments/assets/42d79f4c-5f5f-490b-9ef3-915d9bc321d4" /><br/><br/>
 
 
 <img width="568" height="378" alt="arm 13" src="https://github.com/user-attachments/assets/75dac10b-2c0b-4e8a-8975-ad2ffdf5e808" />
 <img width="1048" height="513" alt="arm 14" src="https://github.com/user-attachments/assets/8a493afb-9ca6-4e0d-a9e7-18e1e74d7395" /><br/><br/>
+
+
+
+After it loads all the attacks you could just right click on the host and choose the attack<br/><br/>
+
+
+<img width="616" height="437" alt="arm 15" src="https://github.com/user-attachments/assets/415b727e-17af-4af6-ae6e-75106c5b1c8b" /><br/><br/>
+<img width="1140" height="557" alt="arm 16" src="https://github.com/user-attachments/assets/82af677a-4c9f-4ff4-857a-066ac4c91e2e" />
+
+The attack progresses in the lower panel. The host icon will turn red showing that it is compromised
+
+
+
+
+
+
+
+
 
