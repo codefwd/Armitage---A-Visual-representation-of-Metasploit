@@ -47,7 +47,8 @@ After it loads all the attacks you could just right click on the host and choose
 The attack progresses in the lower panel. The host icon will turn red showing that it is compromised
 
 
-
+## In conclusion,
+Armitage is a valuable ethical hacking tool that simplifies penetration testing through its graphical interface for the Metasploit Framework. It helps security professionals and students visualize targets, identify vulnerabilities, and manage exploits more efficiently
 
 
 
