@@ -28,11 +28,11 @@ On the top left panel there is a tree version of the metasploitable database. If
 <img width="421" height="344" alt="arm 10" src="https://github.com/user-attachments/assets/364775c1-f1f3-4ccc-b002-e0d99b7ace22" /><br/><br/>
 <img width="1115" height="529" alt="arm 11" src="https://github.com/user-attachments/assets/2203ffdd-4e54-4245-b188-762fd9efd337" /><br/><br/>
 
-Armitage can help us decide what exploit to use. first, have the host selected that you want to attack, then armitage can check the database and select all the possible attacks for this kind of host. You have to first reduce the attack filter too low.<br/><br/>
+Armitage can help us decide what exploit to use. First you have to reduce the attack filter to poor, second, have the host you want compromised selected, then armitage can check the database and select all the possible attacks for this kind of host.<br/><br/>
 
-<img width="423" height="388" alt="arm 12" src="https://github.com/user-attachments/assets/42d79f4c-5f5f-490b-9ef3-915d9bc321d4" />
-
-
+<img width="423" height="388" alt="arm 12" src="https://github.com/user-attachments/assets/42d79f4c-5f5f-490b-9ef3-915d9bc321d4" /><br/><br/>
 
 
+<img width="568" height="378" alt="arm 13" src="https://github.com/user-attachments/assets/75dac10b-2c0b-4e8a-8975-ad2ffdf5e808" />
+<img width="1048" height="513" alt="arm 14" src="https://github.com/user-attachments/assets/8a493afb-9ca6-4e0d-a9e7-18e1e74d7395" /><br/><br/>
 
