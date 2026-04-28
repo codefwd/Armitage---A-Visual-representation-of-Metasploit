@@ -19,3 +19,5 @@ We can select now one of them and go for a port scan. you just right click on on
 
 <img width="560" height="418" alt="arm 7" src="https://github.com/user-attachments/assets/f9900520-16e4-45fa-9a07-e8741541d7ba" />
 <img width="1592" height="736" alt="arm 8" src="https://github.com/user-attachments/assets/7f861317-a74f-42b6-9d10-412f166baef4" /><br/><br/>
+
+On the top left panel there is a tree version of the metasploitable database. If you know the exploit you want to run, you go to the exploit down arrow and follow through to the exploit you want and then double click the exploit.<br/><br/>
