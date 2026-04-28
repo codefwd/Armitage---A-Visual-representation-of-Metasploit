@@ -20,7 +20,7 @@ We can select now one of them and go for a port scan. you just right click on on
 <img width="560" height="418" alt="arm 7" src="https://github.com/user-attachments/assets/f9900520-16e4-45fa-9a07-e8741541d7ba" />
 <img width="1592" height="736" alt="arm 8" src="https://github.com/user-attachments/assets/7f861317-a74f-42b6-9d10-412f166baef4" /><br/><br/>
 
-If you know the operating system of the host is, let's say linux that you are working with, you can right click on the host and choose host / operating system / linux.<br/><br/>
+If you know the operating system of the host, let's say linux that you are working with, you can right click on the host and choose host / operating system / linux.<br/><br/>
 <img width="703" height="461" alt="arm 9" src="https://github.com/user-attachments/assets/6d941b55-2d8d-40e4-b551-d4c3975bec67" /><br/><br/>
 
 
